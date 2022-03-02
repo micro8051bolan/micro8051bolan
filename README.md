@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @micro8051bolan
+- 👀 I’m interested in creating projects on analog electronics and microcontrollers
+- 🌱 I’m currently learning about the 8051 microcontroller and analog oscillators.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: 
